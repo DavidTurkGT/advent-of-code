@@ -6,3 +6,7 @@ Dec 2:
     Part 1: 631
     Part 2: 665
 
+Dec 3:
+    Part 1: 188116424
+    Part 2:
+
